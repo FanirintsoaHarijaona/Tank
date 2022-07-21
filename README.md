@@ -13,8 +13,8 @@
 
     Use [pip](https://pip.pypa.io/en/stable/) to install Pygame
 
-    ```bash
-    pip install Pygame 
+    ``` bash
+    pip install pygame 
     ```
 
 # Compile 
