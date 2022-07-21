@@ -2,22 +2,18 @@
     
     Tank
 
-
-# Requirements
+## Requirements
 
     -Python>=3.6
-
     -Pygame
 
-# Installation 
+## Installation 
+   Use [pip](https://pip.pypa.io/en/stable/) to install Pygame
 
-    Use [pip](https://pip.pypa.io/en/stable/) to install Pygame
-
-    ``` bash
+    ```bash
     pip install pygame 
     ```
-
-# Compile 
+## Compile 
     python3.x Game.py
-     
+       
     where x is the version of Python installed in your computer
